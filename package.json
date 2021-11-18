@@ -1,0 +1,11 @@
+{
+  "name": "firebase-minimal",
+  "version": "1.0.0",
+  "description": "Test your firebase settings.",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "firebase": "^9.4.1"
+  },
+  "license": "MIT"
+}
